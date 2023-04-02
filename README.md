@@ -18,5 +18,7 @@ Grieve S, Wajnberg G, Lees M, Chacko S, **Weir J**, Crapoulet N, Reiman T. TAZ f
 
 ### Contact
 Email: jackson.weir[at]g.harvard.edu
+
 Twitter: [@jacksonweir4](https://twitter.com/jacksonweir4)
+
 LinkedIn: [here](https://www.linkedin.com/in/jackson-weir/)
