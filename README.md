@@ -15,3 +15,8 @@ I received my Bachelor of Science in Cell and Molecular Biology at the Universit
 Alfarra H, **Weir J**, Grieve S, Reiman T. Targeting NK cell inhibitory receptors for precision multiple myeloma immunotherapy. _Frontiers in Immunology_, 2020. [paper](https://www.frontiersin.org/articles/10.3389/fimmu.2020.575609/full)
 
 Grieve S, Wajnberg G, Lees M, Chacko S, **Weir J**, Crapoulet N, Reiman T. TAZ functions as a tumor suppressor in multiple myeloma by downregulating MYC. _Blood Advances_, 2019. [paper](https://ashpublications.org/bloodadvances/article/3/22/3613/428811/TAZ-functions-as-a-tumor-suppressor-in-multiple)
+
+### Contact
+Email: jackson.weir[at]g.harvard.edu
+Twitter: [@jacksonweir4](https://twitter.com/jacksonweir4)
+LinkedIn: [here](https://www.linkedin.com/in/jackson-weir/)
