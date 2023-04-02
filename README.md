@@ -1,3 +1,4 @@
+## Jackson Weir
 ![Image](/assets/headshot.jpg)
 
 ### About me
