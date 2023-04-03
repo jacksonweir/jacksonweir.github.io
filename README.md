@@ -7,7 +7,7 @@ I am a 2nd year PhD student in the Harvard [Biological and Biomedical Sciences](
 
 I develop spatial genomics technologies to answer pressing biological questions of tissue structure and dynamics. I am particularly focused on using spatial tools to understand intrinsic and extrinsic drivers of tumour evolution. Previously, I studied combination immunotherapies in blood malignancies. 
 
-[A link to my CV.](https://github.com/jacksonweir/jacksonweir.github.io/blob/main/assets/CV_230402.pdf?raw=true)
+jackson_weir[at]g.harvard.edu | [CV](https://github.com/jacksonweir/jacksonweir.github.io/blob/main/assets/CV_230402.pdf?raw=true) | [Twitter](https://twitter.com/jacksonweir4) | [LinkedIn](https://www.linkedin.com/in/jackson-weir/)
 
 
 ### Publications
@@ -16,9 +16,3 @@ Alfarra H, **Weir J**, Grieve S, Reiman T. Targeting NK cell inhibitory receptor
 
 Grieve S, Wajnberg G, Lees M, Chacko S, **Weir J**, Crapoulet N, Reiman T. TAZ functions as a tumor suppressor in multiple myeloma by downregulating MYC. _Blood Advances_, 2019. [paper](https://ashpublications.org/bloodadvances/article/3/22/3613/428811/TAZ-functions-as-a-tumor-suppressor-in-multiple)
 
-### Contact
-Email: jackson.weir[at]g.harvard.edu
-
-Twitter: [@jacksonweir4](https://twitter.com/jacksonweir4)
-
-LinkedIn: [here](https://www.linkedin.com/in/jackson-weir/)
