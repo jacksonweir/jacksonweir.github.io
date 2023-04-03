@@ -7,7 +7,7 @@ I am a 2nd year PhD student in the Harvard [Biological and Biomedical Sciences](
 
 I develop spatial genomics technologies to answer pressing biological questions of tissue structure and dynamics. I am particularly focused on using spatial tools to understand intrinsic and extrinsic drivers of tumour evolution. Previously, I studied combination immunotherapies in blood malignancies. 
 
-jackson_weir[at]g.harvard.edu | [CV](https://github.com/jacksonweir/jacksonweir.github.io/blob/main/assets/CV_230402.pdf?raw=true) | [Twitter](https://twitter.com/jacksonweir4) | [LinkedIn](https://www.linkedin.com/in/jackson-weir/)
+[CV](https://github.com/jacksonweir/jacksonweir.github.io/blob/main/assets/CV_230402.pdf?raw=true) | [Google Scholar](https://scholar.google.com/citations?user=rggVNVEAAAAJ&hl=en) | [Twitter](https://twitter.com/jacksonweir4) | [LinkedIn](https://www.linkedin.com/in/jackson-weir/) | jackson_weir[at]g.harvard.edu
 
 
 ### Publications
