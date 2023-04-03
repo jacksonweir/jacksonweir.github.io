@@ -3,9 +3,9 @@
 
 ### About me
 
-I am a 2nd year PhD student in the Harvard [Biological and Biomedical Sciences](https://bbsphd.hms.harvard.edu/) program supervised by [Fei Chen](https://www.broadinstitute.org/bios/fei-chen). I develop new spatial sequencing technologies to understand tumour evolution and tissue dynamics. 
+I am a 2nd year PhD student in the Harvard [Biological and Biomedical Sciences](https://bbsphd.hms.harvard.edu/) program supervised by [Fei Chen](https://www.broadinstitute.org/bios/fei-chen). I received my Bachelor of Science in Cell and Molecular Biology from the University of New Brunswick in 2021. 
 
-I received my Bachelor of Science in Cell and Molecular Biology at the University of New Brunswick in 2021. As an undergraduate, I studied the anti-cancer immune response in blood cancer. 
+I develop spatial genomics technologies to answer pressing biological questions of tissue structure and dynamics. I am particularly focused on using spatial tools to understand intrinsic and extrinsic drivers of tumour evolution. Previously, I studied combination immunotherapies in blood malignancies. 
 
 [A link to my CV.](https://github.com/jacksonweir/jacksonweir.github.io/blob/main/assets/CV_230402.pdf?raw=true)
 
