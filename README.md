@@ -14,7 +14,7 @@ I develop spatial genomics technologies to answer pressing biological questions 
 
 (\*Co-first author)
 
-Russell, A. J. C.\*, **Weir, J. A.\***, Nadaf, N. M.\*, Shabet, M., Kuma, V., Kambhampati, S., Raichur, R., Marrerro, G. J., Liu, S., Balderrama, K. S., Vanderburg, C. R., Shanmugam, V., Tian, L., Wu, C. J., Yoon, C. H., Macosko, E. Z.#, Chen, F.# Slide-tags: scalable, single-nucleus barcoding for multi-modal spatial genomics. Biorxiv, 2023. 
+Russell, A. J. C.\*, **Weir, J. A.\***, Nadaf, N. M.\*, Shabet, M., Kuma, V., Kambhampati, S., Raichur, R., Marrerro, G. J., Liu, S., Balderrama, K. S., Vanderburg, C. R., Shanmugam, V., Tian, L., Wu, C. J., Yoon, C. H., Macosko, E. Z.#, Chen, F.# Slide-tags: scalable, single-nucleus barcoding for multi-modal spatial genomics. _Biorxiv_, 2023. 
 
 Alfarra, H., **Weir, J. A.**, Grieve, S., Reiman, T. Targeting NK cell inhibitory receptors for precision multiple myeloma immunotherapy. _Frontiers in Immunology_, 2023. [paper](https://www.frontiersin.org/articles/10.3389/fimmu.2020.575609/full)
 
