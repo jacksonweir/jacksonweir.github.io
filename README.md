@@ -3,7 +3,7 @@
 
 ### About me
 
-I am a 2nd year PhD student in the Harvard [Biological and Biomedical Sciences](https://bbsphd.hms.harvard.edu/) program supervised by [Fei Chen](https://www.broadinstitute.org/bios/fei-chen). I received my Bachelor of Science in Cell and Molecular Biology from the University of New Brunswick in 2021. 
+I am a 3rd year PhD candidate in the Harvard [Biological and Biomedical Sciences](https://bbsphd.hms.harvard.edu/) program supervised by [Fei Chen](https://www.broadinstitute.org/bios/fei-chen). I received my Bachelor of Science in Cell and Molecular Biology from the University of New Brunswick in 2021. 
 
 I develop spatial genomics technologies to answer pressing biological questions of tissue development and dysfunction. I am particularly focused on using spatial tools to understand intrinsic and extrinsic drivers of tumour evolution. Previously, I studied combination immunotherapies in blood malignancies. 
 
@@ -14,7 +14,7 @@ I develop spatial genomics technologies to answer pressing biological questions 
 
 (\*Co-first author)
 
-Russell, A. J. C.\*, **Weir, J. A.\***, Nadaf, N. M.\*, Shabet, M., Kuma, V., Kambhampati, S., Raichur, R., Marrerro, G. J., Liu, S., Balderrama, K. S., Vanderburg, C. R., Shanmugam, V., Tian, L., Wu, C. J., Yoon, C. H., Macosko, E. Z.#, Chen, F.# Slide-tags: scalable, single-nucleus barcoding for multi-modal spatial genomics. _Biorxiv_, 2023. [paper](https://www.biorxiv.org/content/10.1101/2023.04.01.535228v1)
+Russell, A. J. C.\*, **Weir, J. A.\***, Nadaf, N. M.\*, Shabet, M., Kuma, V., Kambhampati, S., Raichur, R., Marrerro, G. J., Liu, S., Balderrama, K. S., Vanderburg, C. R., Shanmugam, V., Tian, L., Wu, C. J., Yoon, C. H., Macosko, E. Z.#, Chen, F.# Slide-tags: scalable, single-nucleus barcoding for multi-modal spatial genomics. _Nature, in press_ (_Biorxiv_, 2023). [paper](https://www.biorxiv.org/content/10.1101/2023.04.01.535228v1)
 
 Alfarra, H., **Weir, J. A.**, Grieve, S., Reiman, T. Targeting NK cell inhibitory receptors for precision multiple myeloma immunotherapy. _Frontiers in Immunology_, 2020. [paper](https://www.frontiersin.org/articles/10.3389/fimmu.2020.575609/full)
 
